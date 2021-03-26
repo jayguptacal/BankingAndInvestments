@@ -1,7 +1,7 @@
 
 ## Financial Frauds Detection Using Machine Learning Modeling
 
-![intromobilefrauds.png](attachment:intromobilefrauds.png)
+![](https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/images/financialfraudspresentationcover.png)
 (Image source Credit: http://100.24.114.164/files/pdf/RP151_Fraud_in_Mobile_Financial_Services_JMudiri.pdf)
 
 ### Introduction ###
