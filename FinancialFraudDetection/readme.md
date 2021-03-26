@@ -1,7 +1,8 @@
 
 ## Financial Frauds Detection Using Machine Learning Modeling
 
-[](/FinancialFraudDetection/images/financialfraudspresentationcover.png)
+![intromobilefrauds.png](attachment:intromobilefrauds.png)
+(Image source Credit: http://100.24.114.164/files/pdf/RP151_Fraud_in_Mobile_Financial_Services_JMudiri.pdf)
 
 ### Introduction ###
 As per the <a href="http://documents1.worldbank.org/curated/en/249151504766545101/pdf/119208-BRI-PUBLIC-Brief-Fraud-in-Mobile-Financial-Services-April-2017.pdf" target="_blank">World Bank report</a>, the rise of mobile financial services (MFS) is one of the most important contributors towards the financial inclusion in the emerging markets. While it has facilitated cheap and reliable financial services to formerly unbanked population segment. With the growing use of these services, there is a growth in the financial frauds too.
