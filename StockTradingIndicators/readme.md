@@ -3,7 +3,7 @@
 
 ## Check-Out Jupyter Notebook For Different Steps of Machine Learning Modeling ##
 <p align="center">
-<img src="https://github.com/jayguptacal/BankingAndInvestments/blob/main/StockTradingIndicators/SP500_Technical_Analysis.ipynb">
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/SPYTradingPortfolio.jpg">
 </p>
 
 If you are interested in details of each phase, please refer the Jupyter Notebooks here one by one. While clicking on the below links for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
