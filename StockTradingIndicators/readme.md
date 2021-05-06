@@ -42,7 +42,10 @@ While clicking on the below links for the detailed working of this project, plea
 
 <img src="https://github.com/jayguptacal/portfolio/blob/main/image/bannerOpenNotebooks.jpg">
 
-xx
+* <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/StockTradingIndicators/SP500_Technical_Analysis.ipynb" target="_blank"><b>Full Machine Learning Jupyter Notebook</b></a>
+
+While clicking on the above banner for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
+
 The purpose of this project is to gain the experience in dealing with the stock market data which is normally very data-heavy and complicated and use this knowledge to build a stock trading dashboard in future.
 
 ## Check-Out Jay Gupta's Portfolio for Other Machine Learning Projects ##
