@@ -27,10 +27,6 @@ You can read more about the above <a href="https://www.lexology.com/library/deta
 
 Due to class imbalance ratio, I plan to focus on **measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC)** as confusion matrix accuracy is not meaningful for unbalanced classification.
 
-<p align="center">
-<img src="https://github.com/jayguptacal/BankingAndInvestments/blob/main/FinancialFraudDetection/images/financialfraudspresentationcover.png">
-</p>
-
 ## Check-Out Jupyter Notebooks For Different Steps of Machine Learning Modeling ##
 
 While clicking on the below links for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
