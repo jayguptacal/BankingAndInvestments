@@ -10,6 +10,11 @@ Please click at the below links to learn more about my data science projects.
 
 <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/StockTradingIndicators/readme.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/SPYTradingPortfolio.jpg)</a>
 
+<span style="font-size=30; color:blue"> **Third Project:** </span>
+
+<a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/CreditCardFraudDetection/readme.md" target="_blank">![](https://github.com/jayguptacal/portfolio/blob/main/image/CreditCardsFraudsBannerReadme.jpg)</a>
+
+
 
 ## Check-Out Jay Gupta's Portfolio for Other Machine Learning Projects ##
 <p>
