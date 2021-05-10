@@ -1,5 +1,5 @@
 # Can We Identify Credit Card Fraudulent Transactions with Machine Learning?
-<img src="https://github.com/jayguptacal/BankingAndInvestments/blob/main/CreditCardFraudDetection/images/CreditCardsFraudsBannerwelcome.jpg"></img>
+<center><img src="https://github.com/jayguptacal/BankingAndInvestments/blob/main/CreditCardFraudDetection/images/CreditCardsFraudsBannerwelcome.jpg"></img></center>
 
 ## Introduction
 As per the [the Nilson Report](https://www.prnewswire.com/news-releases/payment-card-fraud-losses-reach-27-85-billion-300963232.html), fraudulent card losses worldwide in 2018 reached to $27.85  billions.  
