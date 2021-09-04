@@ -34,7 +34,7 @@ While clicking on the below link for the detailed working of this project, pleas
 
 <img src="https://github.com/jayguptacal/portfolio/blob/main/image/bannerOpenNotebooks.jpg">
 
-* <a href="https://github.com/jayguptacal/RetailAndMarketing/blob/main/spotfireanalytics/tibco_spotfire_project.ipynb">Click here to Access Jupyter Notebook for Excel Project on AML / CFT investigations analysis </a>
+* <a href="https://github.com/jayguptacal/BankingAndInvestments/blob/main/aml_cft_investigation/aml_cft_excelproject.ipynb">Click here to Access Jupyter Notebook for Excel Project on AML / CFT investigations analysis </a>
 
 ==>> While clicking on the above link for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. The data sometimes may not load properly in the new window, so please reload it until it shows properly.
 
