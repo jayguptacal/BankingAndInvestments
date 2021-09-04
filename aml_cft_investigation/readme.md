@@ -1,7 +1,7 @@
 # Identify Anti-Money Laundering (AML) and Combating Financing of Terrorism (CFT) Financial Records Analysis Using Microsoft Excel
 
 <p align="center">
-<img src="https://github.com/jayguptacal/portfolio/blob/main/image/Spotfire_welcome.jpg">
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/amlcftbanner_welcome.jpg">
 </p>
 
 ## Introduction
