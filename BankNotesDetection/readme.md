@@ -22,6 +22,11 @@ As per Science Direct (https://www.sciencedirect.com/topics/computer-science/wav
 
 **The goal of this project is to use Random Forest Classifier, a supervised machine learning algorithm to predict genuine vs fake bank notes.**
 
+## Machine Learning Development Framework Used ##
+<p align="center">
+<img src="https://github.com/jayguptacal/portfolio/blob/main/image/MLmethodology.jpg">
+</p>
+
 ## Check-Out Jupyter Notebook For this project ##
 
 While clicking on the below link for the detailed working of this project, please ensure that you open in a new window by right-clicking and then opening it so that this summary notebook remains open. In some cases, the data sometimes may not load properly and you may have to reload it until it shows properly.
